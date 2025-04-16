@@ -56,7 +56,6 @@ Evaluation metrics:
 - F1-Score
 - ROC-AUC Score
 
-*Note: Update this section with your actual model performance results.*
 
 ## 🧰 Technologies Used
 
@@ -68,14 +67,6 @@ Evaluation metrics:
 - Scikit-learn
 - Jupyter Notebook / Kaggle
 
-## 📁 Repository Structure
-
-framingham-heart-disease/ ├── framingham_heart_disease.ipynb # Main notebook ├── requirements.txt # List of dependencies └── README.md # Project documentation
-
-markdown
-Copy
-Edit
-
 ## 🚀 Future Work
 
 - Hyperparameter tuning for model optimization
@@ -85,7 +76,7 @@ Edit
 
 ## 👩‍💻 Author
 
-**Divya Gunde** – Data Analyst | BI Developer | Machine Learning Enthusiast
+**Divya Gunde** – Data Analyst | Business Intelligence Analyst | Machine Learning Enthusiast
 
 ## 📄 License
 
